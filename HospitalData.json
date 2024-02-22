@@ -1,0 +1,203 @@
+[{"Patient":{"PersonalDetails":{"FirstName":"Dobby",
+                                "LastName":"Sky",
+                                "Age":18,
+                                "BirthDate":"01/01/2007",
+                                "Sex":"Male",
+                                "Address":[{"Home":{"Street":"123 Elm Street",
+                                            "State":{"Name":"Illinois","Zip":"62701"},
+                                            "City":"Springfield",
+                                            "Country":"USA"
+                                }}],
+                                "ContactNumber":["+12404821562","+13015247896"],
+                                "Emailid":"dobbyisfree@gmail.com",
+                                "EmergencyContact":{"Dependent":"Yes",
+                                                    "GuardianFirstName":"Harry",
+                                                    "GuardianLastName":"Potter",
+                                                    "Relationship":"Friend",
+                                                    "Address":[{"Home":{"Street":"456 Maple Avenue",
+                                                                "State":{"Name":"Illinois","Zip":"62701"},
+                                                                "City":"Springfield",
+                                                                "Country":"USA"
+                                                    }}],
+                                                    "ContactNumber":["+12456327895"]
+                                }
+            },
+            "HealthDetails":{"BloodGroup":"O+",
+                            "Height":"5ft",
+                            "Weight":"60kg",
+                            "BMI":{"Value":22,"Status":"Normal"},
+                            "MedicalHistory":["Asthma","Bad Teeth"],
+                            "CurrentMedicalStatus":{"Reason":"Fever,Malaria",
+                                                    "Admitted":{"BuildingNumber":"S3",
+                                                                "WardNumber":"2",
+                                                                "Type":"General",
+                                                                "DateofAdmit":"02/08/2024",
+                                                                "DateofRelease":"02/18/2024"
+                                                    },
+                                                    "Payment":{"CreditCardNumber":"789545862543",
+                                                                "Company":"Bank Of America",
+                                                                "ExpiryDate":"12/30",
+                                                                "CVV":789,
+								"Amount":240,
+                                                                "Status":"Due"
+                                                    },
+                                                    "Pharmacy":{"Medicines":["Litol","phosphase78","sugartui12"],
+                                                                "Bill":{"Amount":100,
+                                                                        "Paid":"Yes"
+                                                                }
+                                                    }
+                            }
+                            
+            },
+            "InsuranceDetails":[{"PrimaryInsurance":{"InsuranceCompanyName":"Healthcare",
+                                "NameofInsured":"Dobby Shashank",
+                                "Relationship":"Self",
+                                "DOB":"01/01/2007",
+                                "Policy#":"AUHJ12345",
+                                "SSN":"1238567894"
+                                }},
+                                {"SecondaryInsurance":{"InsuranceCompanyName":"MediLife",
+                                "NameofInsured":"Harry Potter",
+                                "Relationship":"Friend",
+                                "DOB":"05/09/1999",
+                                "Policy#":"HPOTT654332",
+                                "SSN":"12578456931"
+                                }}],
+            "DoctorAppointed":{"FirstName":"Ashwini",
+                                "LastName":"Devi",
+                                "Prefix":"MD",
+                                "ContactNumber":["+130124568796"],
+                                "Emailid":"drashdevi23@gmail.com",
+                                "HistoryWithPatient":{"AppointedDate":"02/01/2024",
+                                                        "Follow-up":"Yes",
+                                                        "NextFollowup":"02/12/2024",
+                                                        "FollowupEmailSent":"No"
+                                }
+            }
+}},
+{"Patient":{"PersonalDetails":{"FirstName":"Hermoine",
+                                "LastName":"Granger",
+                                "Age":22,
+                                "BirthDate":"02/14/2003",
+                                "Sex":"Female",
+                                "Address":[{"Home":{"Street":"7304 Dickinson Avenue",
+                                            "Apt":"3",
+                                            "State":{"Name":"Maryland","Zip":"20740"},
+                                            "City":"College park",
+                                            "Country":"USA"
+                                }}],
+                                "ContactNumber":["+12404821562","+13015247896"],
+                                "Emailid":"leviossaa@gmail.com",
+                                "EmergencyContact":{"Dependent":"No",
+                                                    "GuardianFirstName":"Ron",
+                                                    "GuardianLastName":"Weasley",
+                                                    "Relationship":"Husband",
+                                                    "Address":[{"Home":{"Street":"789 Oak Lane",
+                                                                "State":{"Name":"NewYork","Zip":"11518"},
+                                                                "City":"Meadowbrook",
+                                                                "Country":"USA"
+                                                    }}],
+                                                    "ContactNumber":["+12456327895"]
+                                }
+            },
+            "HealthDetails":{"BloodGroup":"B+",
+                            "Height":"5.5ft",
+                            "Weight":"60kg",
+                            "BMI":{"Value":22,"Status":"Underweight"},
+                            "MedicalHistory":["Depression","Mental Stress"],
+                            "CurrentMedicalStatus":{"Reason":"Stroke",
+                                                    "Admitted":{"BuildingNumber":"M1",
+                                                                "WardNumber":"1",
+                                                                "Type":"Special",
+                                                                "DateofAdmit":"01/08/2024",
+                                                                "DateofRelease":"01/18/2024"
+                                                    },
+                                                    "Payment":{"CreditCardNumber":"9865785412367895",
+                                                                "Company":"JP Morgan Chase",
+                                                                "ExpiryDate":"06/35",
+                                                                "CVV":951,
+								"Amount":1000,
+                                                                "Status":"Due"
+                                                    },
+                                                    "Pharmacy":{"Medicines":["Suphax32","Artisol89"],
+                                                                "Bill":{"Amount":50,
+                                                                        "Paid":"Yes"
+                                                                }
+                                                    }
+                            }
+                            
+            },
+            "InsuranceDetails":[{"PrimaryInsurance":{"InsuranceCompanyName":"MediCare",
+                                "NameofInsured":"Hermoine Granger",
+                                "Relationship":"Self",
+                                "DOB":"02/14/2002",
+                                "Policy#":"HG45630989",
+                                "SSN":"965432514785"
+                                }}],
+            "DoctorAppointed":{"FirstName":"Margaret",
+                                "LastName":"Lenny",
+                                "Prefix":"Psy",
+                                "ContactNumber":["+12045632897"],
+                                "Emailid":"margaretlen34@gmail.com",
+                                "HistoryWithPatient":{"AppointedDate":"01/08/2024",
+                                                        "Follow-up":"No",
+                                                        "FollowupEmailSent":"No"
+                                }
+            }
+}},
+{"Patient":{"PersonalDetails":{"FirstName":"Diana",
+                                "LastName":"Lewk",
+                                "Age":30,
+                                "BirthDate":"03/03/1997",
+                                "Sex":"Female",
+                                "Address":[{"Home":{"Street":"67 Pen Road",
+                                            "State":{"Name":"Pennslvania","Zip":"20740"},
+                                            "City":"Hyattsvile",
+                                            "Country":"USA"
+                                }}],
+                                "ContactNumber":["+12404821562"],
+                                "Emailid":"dianalooksgood@gmail.com",
+                                "EmergencyContact":{"Dependent":"No",
+                                                    "GuardianFirstName":"Jason",
+                                                    "GuardianLastName":"Lewk",
+                                                    "Relationship":"Father",
+                                                    "Address":[{"Home":{"Street":"730 Lake Avenue",
+                                                                "State":{"Name":"Pennsalvania","Zip":"65423"},
+                                                                "City":"Springfield",
+                                                                "Country":"USA"
+                                                    }}],
+                                                    "ContactNumber":["+12456327895"]
+                                }
+            },
+            "HealthDetails":{"BloodGroup":"AB+",
+                            "Height":"6ft",
+                            "Weight":"60kg",
+                            "BMI":{"Value":17.9,"Status":"Underweight"},
+                            "CurrentMedicalStatus":{"Reason":"Migraine",
+                                                    "Payment":{"CreditCardNumber":"789545862543",
+                                                                "Company":"Bank Of America",
+                                                                "ExpiryDate":"12/30",
+                                                                "CVV":789,
+								"Amount": 100,
+                                                                "Status":"Paid"
+                                                    },
+                                                    "Pharmacy":{"Medicines":["Crocin"],
+                                                                "Bill":{"Value":"$10",
+                                                                        "Paid":"Yes"
+                                                                }
+                                                    }
+                            }
+                            
+            },
+            "DoctorAppointed":{"FirstName":"Ashwini",
+                                "LastName":"Devi",
+                                "Prefix":"MD",
+                                "ContactNumber":["+130124568796"],
+                                "Emailid":"drashdevi23@gmail.com",
+                                "HistoryWithPatient":{"AppointedDate":"02/08/2024",
+                                                        "Follow-up":"Yes",
+                                                        "NextFollowup":"02/18/2024",
+                                                        "FollowupEmailSent":"No"
+                                }
+            }
+}}]
